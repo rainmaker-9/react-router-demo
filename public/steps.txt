@@ -1,0 +1,7 @@
+1) Install React Router DOM --> npm i react-router-DOM
+2) Import BrowserRouter component on index.js.
+3) Keep BrowserRouter as a Parent of App component.
+4) Import Link component in Header component from 'react-router-dom'
+5) Import Routes, Route component in App component from 'react-router-dom'
+6) For Link cmp: attributes are: to="/"
+7) For Route cmp: attributes are: path="/"
